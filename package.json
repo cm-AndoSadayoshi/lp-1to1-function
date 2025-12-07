@@ -1,0 +1,17 @@
+{
+    "name": "lp-1to1-communication",
+    "version": "1.0.0",
+    "description": "1to1コミュニケーション機能 LP - グロースパック for LINE",
+    "scripts": {
+        "build": "mkdir -p public && cp index.html style.css script.js public/"
+    },
+    "keywords": [
+        "LINE",
+        "CRM",
+        "communication",
+        "chatbot"
+    ],
+    "author": "",
+    "license": "ISC"
+}
+
